@@ -1,0 +1,7 @@
+{
+  "name": "d0sbaev",
+  "description": "A comprehensive AI playground featuring Text Chat, Vision analysis, Image Generation, and Real-time Voice interaction using the Google Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
